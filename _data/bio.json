@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "charles-dickens",
         "url": "http://linkedin.com/in/charles-dickens"
       }
     ]
@@ -36,6 +36,11 @@
     {
       "name": "Data Science",
       "keywords": [
+      ]
+    },
+    {
+      "name": "Cyber Security"
+      "keywords":[
       ]
     },
     {
@@ -54,7 +59,8 @@
         "Java",
         "Javascript",
         "Python",
-        "Assembly"
+        "Assembly",
+        "Verilog"
       ]
     },
     {
@@ -62,10 +68,8 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Unix",
+        "Git/GitHub"
       ]
     }
   ],
@@ -75,7 +79,7 @@
       "area": "Computer Engineering (expected Spring, 2019)",
       "studyType": "B.S.",
       "startDate": "2014-09-01",
-      "endDate": "Present",
+      "endDate": "2019-05-01",
       "gpa": "3.97",
       "courses": [
       ]
