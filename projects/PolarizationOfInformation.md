@@ -2,15 +2,14 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Polarization of Information on the Web
+permalink: projects/polarizationOfInformation
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-08-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Python
+  - MySql
+summary: A work in progress: Can we quantify the polarization of opinions and information surrounding a topic on the web?
 ---
 
 <div class="ui small rounded images">
@@ -38,7 +37,7 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Source code is avaiable and being updated on [my github](https://github.com/dickensc/PolarizationOfInformation).
 
 
 
