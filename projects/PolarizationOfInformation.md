@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/complexnetworks.jpg
 title: Polarization of Information on the Web
 permalink: projects/polarizationOfInformation
 # All dates must be YYYY-MM-DD format!
