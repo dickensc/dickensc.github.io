@@ -17,7 +17,7 @@ summary: A work in progress: Can we quantify the polarization of opinions and in
   <img class="ui image" src="../images/sourcecode.png">
 </div>
 
-
+Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
 ```js
 byte ADCRead(byte ch)
