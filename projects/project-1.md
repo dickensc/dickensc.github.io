@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/complexnetworks.jpg
-title: Polarization of Information on the Web
+title: PolarizationofInformation
 permalink: projects/PolarizationOfInformation
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-01
