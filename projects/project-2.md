@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: 
 title: Processor Design
 permalink: projects/ProcessorDesign
 # All dates must be YYYY-MM-DD format!
@@ -12,8 +12,8 @@ labels:
 summary: A pipelined processor designed in Verilog for Digital Systems and Computer Design Course (EE361).
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/">
 
  
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href=""></a>
