@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/university-of-hawaii-at-manoa_416x416.jpg
 title: College of Engineering Summer Internship
 permalink: projects/UHMSummerInternshipMentor
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: I was a mentor for Hawaii High School Students over the summer of 2017 Internship program.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/university-of-hawaii-at-manoa_416x416.jpg">
 
 
 
