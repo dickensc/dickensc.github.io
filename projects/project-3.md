@@ -2,21 +2,20 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: College of Engineering Summer Internship
+permalink: projects/UHMSummerInternshipMentor
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-07-01
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Mentoring
+  - Data Science
+  - Python
+summary: I was a mentor for Hawaii High School Students over the summer of 2017 Internship program.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
-To give you a flavor of the game, here is an excerpt from one run:
 
 <hr>
 
