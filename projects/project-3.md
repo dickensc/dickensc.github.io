@@ -26,5 +26,5 @@ the final project that I planned from the beginning.
 At the end of the 6 weeks the students presented the project to peers in other labs, Manoa faculty, and the 
 program's sponsors. 
 
-To learn more about the Summer Internship Program for High School Students visit <a href="https://nemlau.wordpress.com/2017/03/02/2017-uh-manoa-college-of-engineering-summer-internship-program/"></a>
+To learn more about the Summer Internship Program for High School Students visit <a href="https://nemlau.wordpress.com/2017/03/02/2017-uh-manoa-college-of-engineering-summer-internship-program/">nemlau.wordpress.com</a>
 
