@@ -26,7 +26,7 @@ So far I developed a simple web scraper with python script to collect informatio
 To continue, user browsing histories from different points of view can be collected.  The relevant articles or tweets encountered by the user can be determined by the scraper I built.  The articles and tweets can be profiled as different states then the relevant user browsing history can be represented by a Markov chain from which we can calculate the starting distribution. We can then simulate the user proceeding to browse and encounter articles on the web.  The Markov Chain will grow and the distribution will approach the stationary distribution at a measurable rate.
 
 
-Source code is avaiable and being updated on [my github](https://github.com/dickensc/PolarizationOfInformation).
+Source code is avaiable and being updated on [github](https://github.com/dickensc/PolarizationOfInformation).
 
 
 
