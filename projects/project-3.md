@@ -15,46 +15,16 @@ summary: I was a mentor for Hawaii High School Students over the summer of 2017 
 
 <img class="ui image" src="{{ site.baseurl }}/images/university-of-hawaii-at-manoa_416x416.jpg">
 
+During the summer of 2017 I was a mentor for a group of High School students participating in UH Manoa's 
+College of Engineering Internship Program. I was a representative of the Electrical Engineering department's
+Big Data lab. 
 
+I introduced the students to some of the fundamentals of graph theory, probability and statistics, the python 
+language, object orientied programming, and more. The introduction to all this material was wrapped inside 
+the final project that I planned from the beginning. 
 
-<hr>
+At the end of the 6 weeks the students presented the project to peers in other labs, Manoa faculty, and the 
+program's sponsors. 
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+To learn more about the Summer Internship Program for High School Student visit <a href="https://nemlau.wordpress.com/2017/03/02/2017-uh-manoa-college-of-engineering-summer-internship-program/">
 
