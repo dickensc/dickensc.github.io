@@ -12,7 +12,7 @@ labels:
 
 <img class="ui small right floated rounded image" src="../images/javascriptBasics.png">
 
-##### My Experience #####
+#### My Experience ####
 
 At the moment, I am taking a course on Software Engineering from UH Manoa's Information and Computer Science Department. It is the first week of class and we have already began our 3rd module: Javascript Basics. Appropriately named, the Javascript Basics module is intended help us students become competent with elementary Javascript. The goals are to be able to use basic Javascript constructs such as variables, functions, conditionals, loops, arrays, objects, implement object orientation using the ES6 class construct and use the Underscore library to program in a functional manner.
 
@@ -26,7 +26,7 @@ For this software engineering course we are practing Athletic Software Engineeri
 
 As a part of this Athletic Software Engineering pedagogy, I have been assigned and have completed the FreeCodeCamp basic JavaScript exercises. This basic JavaScript module includes 106 exercises to introduce the syntax and basics of programming with JavaScript. I also have started reading sections of the ES6 for Humans book available [here](https://github.com/metagrover/ES6-for-humans). I have read the section on let, const and block scoping, as well as for...of vs for...in. 
 
-##### My Opinion #####
+#### My Opinion ####
 
 At this point (I am a total novice with the language), my opinion, of JavaScript is positive. JavaScript seems to be easy to use and powerful.
 
