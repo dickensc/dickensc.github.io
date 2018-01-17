@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/processor
 title: Processor Design
 permalink: projects/ProcessorDesign
 # All dates must be YYYY-MM-DD format!
@@ -12,9 +12,9 @@ labels:
 summary: A pipelined processor designed in Verilog for Digital Systems and Computer Design Course (EE361).
 ---
 
-<img class="ui medium right floated rounded image" src="../images/">
+<img class="ui medium right floated rounded image" src="../images/processor">
 
-This pipelined processor was designed for a Digital Systems and Computer Design lab course (EE361L) I took during the Fall 2017 semester at UH Manoa. 
+This pipelined processor was designed using Verilog HDL for a Digital Systems and Computer Design lab course (EE361L) I took during the Fall 2017 semester at UH Manoa. 
 
 The processor implements a 5 stage pipeline (Instruction Fetch, Instruction Decode, Instruction Execute, Memory Access, and Write Back).
 
