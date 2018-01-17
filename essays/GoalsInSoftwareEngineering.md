@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-#### Why I Want to Learn Software Engineering ####
+### Why I Want to Learn Software Engineering ###
 
 On the first day of class for my course on Software Engineering my professor had us work through a brief but eye opening exercise. He asked us to take out a piece of paper and then directed, "take 30 seconds to write down what your passion is. go." 
 
@@ -25,7 +25,7 @@ This simple exercise reignited my thought process of striving to find relevant m
 
 What I wrote on my piece of paper and shared with my peer was: Researching, learning, and collaboration. Thankfully, my neighbor did not leave me with a blank suggestion, I was in the right place.
 
-#### What I Want to Learn about Software Engineering ####
+### What I Want to Learn about Software Engineering ###
 
 Computer Science is a field where a lot of research can be done, there seems to always be something new to learn, and collaboration is necessary to be productive, an excellent match for my passion. Specifically some of the skills I want to develop in Software Engineering are project planning, large scale software design strategies, and the awareness of and experience with existing development tools.
 
