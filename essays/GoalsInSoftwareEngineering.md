@@ -11,6 +11,8 @@ labels:
 
 ### Why I Want to Learn Software Engineering ###
 
+<img class="ui small right floated rounded image" src="../images/softwareEngineering.png">
+
 On the first day of class for my course on Software Engineering my professor had us work through a brief but eye opening exercise. He asked us to take out a piece of paper and then directed, "take 30 seconds to write down what your passion is. go." 
 
 Only allowing that short amount of time I think forces you to write down the truth. I put the first thing that came to mind.
