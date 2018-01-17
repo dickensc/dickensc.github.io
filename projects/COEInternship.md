@@ -13,7 +13,8 @@ labels:
 summary: I was a mentor for Hawaii High School Students over the summer of 2017 Internship program.
 ---
 
-<img class="ui image" src="../images/university-of-hawaii-at-manoa_416x416.jpg">
+<img class="ui medium left floated rounded image" src="../images/university-of-hawaii-at-manoa_416x416.jpg">
+
 
 During the summer of 2017 I was a mentor for a group of High School students participating in UH Manoa's 
 College of Engineering Internship Program. I was a representative of the Electrical Engineering department's
