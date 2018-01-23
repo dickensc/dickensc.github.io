@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Software Engineering: Pursue Your Passion
+title: Software Engineering - Pursue Your Passion
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-16
 labels:
