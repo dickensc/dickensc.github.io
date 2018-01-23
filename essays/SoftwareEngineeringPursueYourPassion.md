@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Goals in Software Engineering
+title: Software Engineering: Pursue Your Passion
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-16
 labels:
