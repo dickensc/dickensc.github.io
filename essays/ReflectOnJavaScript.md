@@ -30,25 +30,19 @@ As a part of this Athletic Software Engineering pedagogy, I have been assigned a
 
 At this point (I am a total novice with the language), my opinion, of JavaScript is positive. JavaScript seems to be easy to use and powerful.
 
-Some reasons JavaScript is looking great are: 
-    
-    - The syntax is simple and efortless to adopt. 
-    
+Some reasons JavaScript is looking great are:   
+    - The syntax is simple and efortless to adopt.   
     - Creating functions is less verbose than Java and more flexible than C 
-    and declaring and initializing variables is intuitive. 
-        
+    and declaring and initializing variables is intuitive.  
         - The function signature in JavaScript does not need to include the 
         return type or the parameter types, this information is determined 
         automatically by the function's implementation which is very 
         convienent. 
-        
         - When declaring and initializing variables the variable type does 
         not need to be stated, it is inferred by the initialization and 
         usage. 
-    
     - The content of an array can vary in type, this is contrary to many 
     other programming languages and is very effective.
-    
     - Functions are first class citizens, meaning we can, in a 
     straightforward way, do handy things like pass functions as parameters 
     to other functions, store functions in data structures, and more.
