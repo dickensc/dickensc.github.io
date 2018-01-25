@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: There Are Such Things As Stupid Questions?
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-14
+date: 2018-01-25
 labels:
   - Open Source 
   - Communication
