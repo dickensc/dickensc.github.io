@@ -19,7 +19,7 @@ He leads with an introduction for the reader, warning of the blunt tone he and t
 
 Raymond defines ways to properly identify stupid questions. Let us analyze a real life example to gain a better understanding. 
 
-<img class="ui medium right floated rounded image" src="../images/stupidQuestion.png">
+<img class="ui large right floated rounded image" src="../images/stupidQuestion.png">
 
 I was so delighted to find this question on the popular site Stack Overflow. This question has many of the traits Raymond refers to in his article and we have a lot to learn from it.
 
