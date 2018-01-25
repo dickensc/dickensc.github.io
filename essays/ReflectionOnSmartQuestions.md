@@ -23,4 +23,9 @@ Raymond defines ways to properly identify stupid questions. Let us analyze a rea
 
 I was so delighted to find this question on the popular site Stack Overflow. This question has many of the traits Raymond refers to in his article and we have a lot to learn from it.
 
+Let us begin with the subject header: "Why always syntax error in my code?". Reading this subject header alone tells us... next to nothing, I have no idea what to expect besides messy code. This question is not interesting either, a hacker looking to solve a thought provoking problem would not blink twice at this post before carrying on with their day.
+
+Next we continue to read the full problem description in our example, it states "In this shell code, I have no idea why always say I have a syntax error and I use this function to calculate the medium and average of row number." 
+
+
 
