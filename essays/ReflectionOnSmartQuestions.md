@@ -9,7 +9,7 @@ labels:
   - Communication
 ---
 
-It turns out, contrary to what Mrs. McGillicuddy promised me in grade school, that there are such things as Stupid Questions! (Well at least stupid ways to ask them.) 
+It turns out, contrary to what Mrs. McGillicuddy promised us in grade school, that there are such things as Stupid Questions! (Well at least stupid ways to ask them.) 
 
 Eric Steven Raymond provides a guide to communicating with hackers, like himself, in his essay "How To Ask Questions The Smart Way". Raymond clarifies what the smarter, smart, and stupid ways to ask questions are. 
 
@@ -47,6 +47,10 @@ We see that people had to ask for ellaboration, "Where does it say you have a sy
 We have seen the stupid way to ask a question, now lets look at a smart way. Again we will look at an example, but this time hopefully we learn a more effective approach.
 
 <img class="ui large right floated rounded image" src="../images/smartQuestion.png">
+
+This header is concise and grammatical, "Code missing after packaging SF stateless ASP.NET Core web application". I am not expert on this topic but I understand what the deviation is and what tools they are working with. This header already has a good chance of recieving a quality answer.
+
+
 
 
 
