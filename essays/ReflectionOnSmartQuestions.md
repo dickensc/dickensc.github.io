@@ -35,7 +35,7 @@ Now this person may be writing the question in English but it is a second langua
 
 Lastly we move on to the responses.
 
-<img class="ui large right floated rounded image" src="../images/stupidResponse.png">
+<img class="ui large left floated rounded image" src="../images/stupidResponse.png">
 
 ## How to Ask A Smart Question##
 
