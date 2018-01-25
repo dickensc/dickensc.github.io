@@ -17,8 +17,10 @@ He leads with an introduction for the reader, warning of the blunt tone he and t
 
 ## How To Ask A Stupid Question ##
 
-Raymond defines many ways a question could be stupid by breaking it up into pieces. Let us analyze a real example to gain a better understanding. 
+Raymond defines ways to properly identify stupid questions. Let us analyze a real life example to gain a better understanding. 
 
 <img class="ui medium right floated rounded image" src="../images/stupidQuestion.png">
 
-I was so delighted to find this beautiful example!
+I was so delighted to find this question on the popular site Stack Overflow. This question has many of the traits Raymond refers to in his article and we have a lot to learn from it.
+
+
