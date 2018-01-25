@@ -44,8 +44,9 @@ We see that people had to ask for ellaboration, "Where does it say you have a sy
 
 ## How to Ask A Smart Question##
 
-We have seen the stupid way to ask a question, now lets look at a smart way. Again we will look at an example and hopefully learn a more effective approach.
+We have seen the stupid way to ask a question, now lets look at a smart way. Again we will look at an example, but this time hopefully we learn a more effective approach.
 
 <img class="ui large right floated rounded image" src="../images/smartQuestion.png">
+
 
 
