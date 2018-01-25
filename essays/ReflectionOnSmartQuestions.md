@@ -27,9 +27,15 @@ Let us begin with the subject header: "Why always syntax error in my code?". Rea
 
 Next we continue to read the full problem description in our example, it states "In this shell code, I have no idea why always say I have a syntax error and I use this function to calculate the medium and average of row number."
 
-Raymond puts it best when he points out, "We've found by experience that people who are careless and sloppy writers are usually also careless and sloppy at thinking and coding (often enough to bet on, anyway)."  
+Raymond puts it best when he points out, "We've found by experience that people who are careless and sloppy writers are usually also careless and sloppy at thinking and coding (often enough to bet on, anyway)... So expressing your question clearly and well is important. If you can't be bothered to do that, we can't be bothered to pay attention."
+
+Hackers in the open source community respect effort. This description is unclear and written carelessly, it tells us that the person put little to no thought into trying to solve the problem on their own and spent no energy writing the question If it is difficult to understand the problem then it difficult for someone to actually help.  
 
 Now this person may be writing the question in English but it is a second language to them, but for this post we are left to assumptions. Raymond suggests that it is a good idea to alert respondents of language barriers and provide options to get around them.
 
+Lastly we move on to the responses.
 
+<img class="ui large right floated rounded image" src="../images/stupidResponse.png">
+
+## How to Ask A Smart Question##
 
