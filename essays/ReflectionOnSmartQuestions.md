@@ -50,15 +50,17 @@ We have seen the stupid way to ask a question, now lets look at a smart way. Aga
 
 This header is concise and grammatical, "Code missing after packaging SF stateless ASP.NET Core web application". I am not expert on this topic but I understand what the deviation is and what tools they are working with. This post already has a good chance of recieving a quality answer. 
 
-The problem description is tells is also good. We are told the symptoms and the steps taken to understand the problem in a chronological order, "I created a Service Fabric application ... I tried to deploy the application... After inspecting my package I noticed ... After trying for many hours I noticed... How do I package the web application correctly so the code package is included?". A detailed sequence of events gives clues to hackers that you may have overlooked.
+The problem description is also efficient. We are told the symptoms and the steps taken to understand the problem in a chronological order, "I created a Service Fabric application ... I tried to deploy the application... After inspecting my package I noticed ... After trying for many hours I noticed... How do I package the web application correctly so the code package is included?". A detailed sequence of events provides clues to hackers that may have initially been overlooked.
 
-We also see examples error messages and pieces of relevant source code, not so much that we get overwhelmed and in a organized way. This description show us that this persons is willing to work and ready to solve the problem.
+We also see examples of error messages and segments of relevant source code, not so much that we get overwhelmed and in a organized way. This description show us that this person is willing to work and ready to solve the problem.
 
 Now lets see a response. 
 
 <img class="ui large left floated rounded image" src="../images/smartResponse.png">
 
-Now unfortunately this post is still unresolved but this is an example of a quality response with some evidence as to why it might solve the issue. The suggestion, with some documentation to back it up, is to install a package for Visual Studio. So we see that quality questions recieve quality answers. I am confident that this question will stay active and be resolved in the near future.
+Now unfortunately this post is still unresolved but this is an example of a quality response with some evidence as to why it might solve the issue. The suggestion, with some documentation to back it up, is to install a package for Visual Studio. 
+
+So we see that quality questions recieve quality answers. I am confident that this question will stay active and be resolved in the near future.
 
 If you want to participate in the open source community effectively I highly suggest learning how to ask questions. Designing a good question takes effort and the process of building your question will develop your own understanding of the issue, sometimes so much so that you no longer need to ask someone else. 
 
