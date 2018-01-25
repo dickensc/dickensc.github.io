@@ -29,13 +29,18 @@ Next we continue to read the full problem description in our example, it states 
 
 Raymond puts it best when he points out, "We've found by experience that people who are careless and sloppy writers are usually also careless and sloppy at thinking and coding (often enough to bet on, anyway)... So expressing your question clearly and well is important. If you can't be bothered to do that, we can't be bothered to pay attention."
 
-Hackers in the open source community respect effort. This description is unclear and written carelessly, it tells us that the person put little to no thought into trying to solve the problem on their own and spent no energy writing the question If it is difficult to understand the problem then it difficult for someone to actually help.  
+Hackers in the open source community respect effort. This description is unclear and written carelessly, it tells us that the person put little to no thought into trying to solve the problem on their own and spent no energy writing the question. If it is difficult to understand the problem then it difficult for someone to actually help.  
 
 Now this person may be writing the question in English but it is a second language to them, but for this post we are left to assumptions. Raymond suggests that it is a good idea to alert respondents of language barriers and provide options to get around them.
 
-Lastly we move on to the responses.
+Lastly, we move on to the responses.
 
 <img class="ui large left floated rounded image" src="../images/stupidResponse.png">
+
+To my surprise this question recieved a legitimate response, but not until after some probing.
+
+We see that people had to ask for ellaboration, "Where does it say you have a syntax error? Try creating a Minimal, Complete, and Verifiable example." This is a great suggestion by the way, it is helpful to see an example of the problematic behavior to those trying to solve the problem. Just posting a large block of code directs more work to the hacker trying to help. It is much more efficient to give an example and the person asking the question is now learning how to debug their own code.
+
 
 ## How to Ask A Smart Question##
 
