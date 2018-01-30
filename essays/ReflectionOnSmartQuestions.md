@@ -5,19 +5,19 @@ title: There Are Such Things As Stupid Questions?
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-25
 labels:
-  - Open Source 
+  - Open Source
   - Communication
 ---
 
-It turns out, contrary to what Mrs. McGillicuddy promised us in grade school, that there are such things as Stupid Questions! (Well at least stupid ways to ask them.) 
+It turns out, contrary to what Mrs. McGillicuddy promised us in grade school, that there are such things as Stupid Questions! (Well at least stupid ways to ask them.)
 
-Eric Steven Raymond provides a guide to communicating with hackers, like himself, in his essay "How To Ask Questions The Smart Way". Raymond clarifies what the smarter, smart, and stupid ways to ask questions are. 
+Eric Steven Raymond provides a guide to communicating with hackers, like himself, in his essay "How To Ask Questions The Smart Way". Raymond clarifies what the smarter, smart, and stupid ways to ask questions are.
 
-He leads with an introduction for the reader, warning of the blunt tone he and the open source community share, not to be interpreted as arrogant, but rather necessary for efficiency. He goes on to explain that the experts that are answering questions are doing us a favor, they are sharing their hard earned wisdom with those in need. These experts are also typically very busy people, and therefore their time and effort should be respected. If you put little to no effort into researching your problem or designing your question before you start asking others for help, then you should not expect a quality answer. 
+He leads with an introduction for the reader, warning of the blunt tone he and the open source community share, not to be interpreted as arrogant, but rather necessary for efficiency. He goes on to explain that the experts that are answering questions are doing us a favor, they are sharing their hard earned wisdom with those in need. These experts are also typically very busy people, and therefore their time and effort should be respected. If you put little to no effort into researching your problem or designing your question before you start asking others for help, then you should not expect a quality answer.
 
 ## How To Ask A Stupid Question ##
 
-Raymond defines ways to properly identify stupid questions. Let us analyze a real life example to gain a better understanding. 
+Raymond defines ways to properly identify stupid questions. Let us analyze a real life example to gain a better understanding.
 
 <img class="ui large right floated rounded image" src="../images/stupidQuestion.png">
 
@@ -37,9 +37,9 @@ Lastly, we move on to the responses.
 
 <img class="ui large left floated rounded image" src="../images/stupidResponse.png">
 
-To my surprise this question recieved a legitimate response, but not until after some probing.
+To my surprise this question received a legitimate response, but not until after some probing.
 
-We see that people had to ask for ellaboration, "Where does it say you have a syntax error? Try creating a Minimal, Complete, and Verifiable example." This is a great suggestion by the way, it is helpful to see an example of the problematic behavior to those trying to solve the problem. Just posting a large block of code directs more work to the hacker trying to help. It is much more efficient to give an example and the person asking the question is now learning how to debug their own code.
+We see that people had to ask for elaboration, "Where does it say you have a syntax error? Try creating a Minimal, Complete, and Verifiable example." This is a great suggestion by the way, it is helpful to see an example of the problematic behavior to those trying to solve the problem. Just posting a large block of code directs more work to the hacker trying to help. It is much more efficient to give an example and the person asking the question is now learning how to debug their own code.
 
 
 ## How to Ask A Smart Question##
@@ -48,20 +48,20 @@ We have seen the stupid way to ask a question, now lets look at a smart way. Aga
 
 <img class="ui large right floated rounded image" src="../images/smartQuestion.png">
 
-This header is concise and grammatical, "Code missing after packaging SF stateless ASP.NET Core web application". I am not expert on this topic but I understand what the deviation is and what tools they are working with. This post already has a good chance of recieving a quality answer. 
+This header is concise and grammatical, "Code missing after packaging SF stateless ASP.NET Core web application". I am not expert on this topic but I understand what the deviation is and what tools they are working with. This post already has a good chance of receiving a quality answer.
 
 The problem description is also efficient. We are told the symptoms and the steps taken to understand the problem in a chronological order, "I created a Service Fabric application ... I tried to deploy the application... After inspecting my package I noticed ... After trying for many hours I noticed... How do I package the web application correctly so the code package is included?". A detailed sequence of events provides clues to hackers that may have initially been overlooked.
 
 We also see examples of error messages and segments of relevant source code, not so much that we get overwhelmed and in a organized way. This description show us that this person is willing to work and ready to solve the problem.
 
-Now lets see a response. 
+Now lets see a response.
 
 <img class="ui large left floated rounded image" src="../images/smartResponse.png">
 
-Now unfortunately this post is still unresolved but this is an example of a quality response with some evidence as to why it might solve the issue. The suggestion, with some documentation to back it up, is to install a package for Visual Studio. 
+Now unfortunately this post is still unresolved but this is an example of a quality response with some evidence as to why it might solve the issue. The suggestion, with some documentation to back it up, is to install a package for Visual Studio.
 
 So we see that quality questions recieve quality answers. I am confident that this question will stay active and be resolved in the near future.
 
-If you want to participate in the open source community effectively I highly suggest learning how to ask questions. Designing a good question takes effort and the process of building your question will develop your own understanding of the issue, sometimes so much so that you no longer need to ask someone else. 
+If you want to participate in the open source community effectively I highly suggest learning how to ask questions. Designing a good question takes effort and the process of building your question will develop your own understanding of the issue, sometimes so much so that you no longer need to ask someone else.
 
 Good luck, and don't be afraid ask questions.

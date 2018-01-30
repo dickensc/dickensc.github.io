@@ -13,17 +13,17 @@ labels:
 
 <img class="ui small right floated rounded image" src="../images/softwareEngineering.png">
 
-On the first day of class for my course on Software Engineering my professor had us work through a brief but eye opening exercise. He asked us to take out a piece of paper and then directed, "take 30 seconds to write down what your passion is. go." 
+On the first day of class for my course on Software Engineering my professor had us work through a brief but eye opening exercise. He asked us to take out a piece of paper and then directed, "take 30 seconds to write down what your passion is. go."
 
 Only allowing that short amount of time I think forces you to write down the truth. I put the first thing that came to mind.
 
-"Now trade papers with the person sitting next to you. Read what your neighbor's passion is and take 30 seconds to write down how Software Engineering, or Computer Science in general will help your neighbor pursue their passion." 
+"Now trade papers with the person sitting next to you. Read what your neighbor's passion is and take 30 seconds to write down how Software Engineering, or Computer Science in general will help your neighbor pursue their passion."
 
 I complied and took my 30 seconds. What he said next humored me but also made me think.
 
 "Okay now pass your papers back. If your neighbor left you with a blank paper, they couldn't think of any way that this class or computer science could help you pursue your passion... you should drop this class."
 
-This simple exercise reignited my thought process of striving to find relevant meaning in every course I take rather than just working for the degree. It is easy to fall into routine of College studies, especially in your 8th semester of Undergrad. It is so much more important to make connections from what you are learning to your passion than to just pass a class with a letter grade. 
+This simple exercise reignited my thought process of striving to find relevant meaning in every course I take rather than just working for the degree. It is easy to fall into routine of College studies, especially in your 8th semester of Undergrad. It is so much more important to make connections from what you are learning to your passion than to just pass a class with a letter grade.
 
 What I wrote on my piece of paper and shared with my peer was: Researching, learning, and collaboration. Thankfully, my neighbor did not leave me with a blank suggestion, I was in the right place.
 
@@ -35,6 +35,6 @@ Being able to draw out a plan that is feasible, efficient, and easy for others t
 
 Understanding effective large scale Software design strategies will help keep you sane and productive when working with thousands to millions of lines of code. If you want to develop almost any useful Software then your code needs to be organized.
 
-There is an ever growing toolbox of platforms for version control and collaboration, development environments, debuggers, and more. Keeping close track and making use of all of them would be difficult and unnecessary but being able to find the right tool for the job is extremly beneficial. 
+There is an ever growing toolbox of platforms for version control and collaboration, development environments, debuggers, and more. Keeping close track and making use of all of them would be difficult and unnecessary but being able to find the right tool for the job is extremely beneficial. 
 
 I believe Software Engineering will help me pursue my passion; I am excited to learn and add Software Engineering to my skillset.  

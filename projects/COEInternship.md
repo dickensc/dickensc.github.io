@@ -16,16 +16,12 @@ summary: I was a mentor for Hawaii High School Students over the summer of 2017 
 <img class="ui small left floated rounded image" src="../images/university-of-hawaii-at-manoa_416x416.jpg">
 
 
-During the summer of 2017 I was a mentor for a group of High School students participating in UH Manoa's 
-College of Engineering Internship Program. I was a representative of the Electrical Engineering department's
-Big Data lab. 
+During the summer of 2017 I was a mentor for a group of High School students participating in UH Manoa's College of Engineering Internship Program. I was a representative of the Electrical Engineering department's Big Data lab.
 
-I introduced the students to some of the fundamentals of graph theory, probability and statistics, the python 
-language, object orientied programming, and more. The introduction to all this material was wrapped inside 
-the final project that I planned from the beginning. 
+I introduced the students to some of the fundamentals of graph theory, probability and statistics, the python programming language, object oriented programming, and more. The introduction to all this material was wrapped inside the final project that I planned from the beginning.
 
-At the end of the 6 weeks the students presented the project to peers in other labs, Manoa faculty, and the 
-program's sponsors. 
+The students created a Python class that stored a weighted directed graph with methods to determine specific graph features such as conductance, shortest path between 2 points, etc.
+
+At the end of the 6 weeks the students presented the project to peers in other labs, Manoa faculty, and the program's sponsors.
 
 To learn more about the Summer Internship Program for High School Students visit <a href="https://nemlau.wordpress.com/2017/03/02/2017-uh-manoa-college-of-engineering-summer-internship-program/">nemlau.wordpress.com</a>
-

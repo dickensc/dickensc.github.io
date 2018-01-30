@@ -59,6 +59,7 @@
         "Java",
         "Javascript",
         "Python",
+        "Matlab",
         "Assembly",
         "Verilog"
       ]
@@ -92,9 +93,9 @@
       "website": "http://manoa.hawaii.edu/ola/",
       "startDate": "2017-11-01",
       "endDate": "Present",
-      "summary": "Conduct tutoring sessions via the web for Physics and Math related courses up to the Sophomore college level.",
+      "summary": "I Conduct tutoring sessions via the web for Physics and Math related courses.",
       "highlights": [
-        "Communicated with students to determine their understanding of a topic and then develop a strategies to provide insight and advance their knowledge."
+        "Communicated with students to determine their understanding of a topic and then clearly explain the concept and guide the student through problems tailored to their level and goals to provide insight and aid their understanding."
       ]
     }
   ],
@@ -105,9 +106,9 @@
       "position": "Summer Internship Mentor",
       "startDate": "2017-06-01",
       "endDate": "2017-08-01",
-      "summary": "Mentor Hawaii’s High School Students during a 2017 Summer Internship program with UH Manoa.",
+      "summary": "I Mentored Hawaii’s High School Students during a 2017 Summer Internship program with UH Manoa.",
       "highlights": [
-        "Taught students the essence of Data Analysis and guided them through a project over the 6 week course."
+        "Taught students the essence of Data Analysis and guided them through a project over the 6 week course. The students created a Python class that stored a weighted directed graph with methods to determine specific graph features such as conductance, shortest path between 2 points, etc."
       ]
     }
   ],
@@ -116,13 +117,13 @@
       "title": "CSoI Channels Scholar REU Award",
       "date": "2017-Present",
       "awarder": "Center for Science of Information",
-      "summary": "Nominated by Professor Narayana Santhanam to participate in the Center for Science of Information research and mentoring program for undergraduates. Undergraduate researchers are expected to to spend 50 hours a month on research and mentoring activities with your mentor and are rewarded with a stipend every semester while in the program."
+      "summary": "I have been Nominated by Professor Narayana Santhanam to participate in the Center for Science of Information research and mentoring program for undergraduates. Undergraduate researchers are expected to to spend 50 hours a month on research and mentoring activities with your mentor and are rewarded with a stipend every semester while in the program."
     },
     {
       "title": "Deans List 7 Semesters",
       "date": "2014 - Present",
       "awarder": "University of Hawaii Manoa, Kapiolani Community College, Windward Community College",
-      "summary": "Deans list every semester during Undergraduate study, this requires a grade point average at or above 3.5 for a semester of 12 or more credits."
+      "summary": "I have earned my name onto Deans list every semester during Undergraduate study, this requires a grade point average at or above 3.5 for a semester of 12 or more credits."
     }
   ],
   "references": [
