@@ -29,6 +29,4 @@ The investment made at the beginning of a project to set up your linter to hold 
 <img class="ui small left floated rounded image" src="../images/linter.png">
 
 
-### My Opinion ###
-
 
