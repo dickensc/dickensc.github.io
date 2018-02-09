@@ -1,53 +1,34 @@
 ---
 layout: essay
 type: essay
-title: A Sip of JavaScript
+title: Stay Stylish
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-14
+date: 2018-02-08
 labels:
-  - Javascript
+  - Coding Standards
   - Software Engineering
-  - Learning
+  - JavaScript
 ---
 
-<img class="ui small right floated rounded image" src="../images/javascriptBasics.png">
+<img class="ui small right floated rounded image" src="../images/badhandwriting.png">
 
-### My Experience ###
+### Why Use Coding Standards? ###
+Some may think of conforming to a coding standard to be more of a hassle than what it is worth. I admit subjecting yourself to the constant nagging of a linter utility may not sound very appealing. Recently however, I personally have realized the importance of sticking to a coding style.
 
-At the moment, I am taking a course on Software Engineering from UH Manoa's Information and Computer Science Department. It is the first week of class and we have already began our 3rd module: Javascript Basics. Appropriately named, the Javascript Basics module is intended help us students become competent with elementary Javascript. The goals are to be able to use basic Javascript constructs such as variables, functions, conditionals, loops, arrays, objects, implement object orientation using the ES6 class construct and use the Underscore library to program in a functional manner.
+### Other People Can Read It! ###
+Writing code that is organized and consistent in style is unarguably much easier to read, even if the style does not match your own. If you are reading someone elses code and they are sticking to a coding standard you can, most of the time, pick up on the pattern quite quickly and begin understanding the code before you would if the coding style varied line by line. 
 
-This is the first time I am being formally introduced to Javascript. I am currently in my 8th semester as a Computer Engineering student, so I am aware of its ubiquity on the web and am eager to learn.
+An immediate positive outcome of writing code that is easy for others to understand is it makes for more efficient collaboration. Maybe you are working on an open source project, people are more likely to contribute to your project if they can understand it. Maybe you have a bug and ask a peer to take a look at your code; don't you want to make their life easier? 
 
-My experience is mostly with languages such as C, C++, and Java. As it was explained to me by my professor, Dr. Phillip Johnson, the languages Java, C, and C++ stem primarily from Assembler and interacting with the physical registers and memory in the computer while Javascript "comes from much more abstract notions about computation". So I am expecting Javascript to be a higher level programming language than what I am used to.
+### You Can Read It! ###
+Suppose you haven't looked at specific file that is a part of a large project for a while. Maybe you come back to it with a great idea for a new feature. You begin tracing it so you can fit your idea in somewhere and... it becomes a horryfing headache; the code is a mess! What could have taken 1 hour to implement now takes 10 hours. Don't you wish you stuck to a clear coding standard? 
 
-<img class="ui small left floated rounded image" src="../images/freeCodeCamp.png">
+The investment made at the beginning of a project to set up your linter to hold you to a coding style will end up saving you time and effort. 
 
-For this software engineering course we are practing Athletic Software Engineering, a system involving a high intensity and time-constrained approach to using the new skills we are learning. This method I believe will be very effective.
 
-As a part of this Athletic Software Engineering pedagogy, I have been assigned and have completed the FreeCodeCamp basic JavaScript exercises. This basic JavaScript module includes 106 exercises to introduce the syntax and basics of programming with JavaScript. I also have started reading sections of the ES6 for Humans book available [here](https://github.com/metagrover/ES6-for-humans). I have read the section on let, const and block scoping, as well as for...of vs for...in.
+<img class="ui small left floated rounded image" src="../images/linter.png">
+
 
 ### My Opinion ###
 
-At this point (I am a total novice with the language), my opinion, of JavaScript is positive. JavaScript seems to be easy to use and powerful.
 
-Some reasons JavaScript is looking great are:
-
-    - The syntax is simple and effortless to adopt.   
-    - Creating functions is less verbose than Java and more flexible than C
-    and declaring and initializing variables is intuitive.  
-        - The function signature in JavaScript does not need to include the
-        return type or the parameter types, this information is determined
-        automatically by the function's implementation which is very
-        convenient.
-        - When declaring and initializing variables the variable type does
-        not need to be stated, it is inferred by the initialization and
-        usage.
-    - The content of an array can vary in type, this is contrary to many
-    other programming languages and is very effective.
-    - Functions are first class citizens, meaning we can, in a
-    straightforward way, do handy things like pass functions as parameters
-    to other functions, store functions in data structures, and more.
-
-However, a small but relatively painless difference compared to my prior programming experience is the convention (not requirement) to primarily use the keywords let and const when declaring and initializing variables. This convention controls the scope and mutability of the variable in a way that is easy to understand and may prevent bugs.
-
-I am sure as I build up experience with JavaScript my opinion on it will become more refined and I will find some niceties and some issues. Currently though JavaScript is all good in my eyes.
