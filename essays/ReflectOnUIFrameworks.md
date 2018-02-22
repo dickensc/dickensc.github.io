@@ -14,7 +14,7 @@ labels:
 ### UI Frameworks Are Not Simple ###
 Learning a new UI framework is no simple task. You will have to learn the Framework's core concepts and principles, its capabilities, how to navigate its documentation, and how to integrate it into your project. Then if you find parts of the framework that are not tuned to your likeing you will have to write you own classes and components anyway. 
 
-<img class="ui small left floated rounded image" src="../images/UserInterface.png">
+<img class="ui medium left floated rounded image" src="../images/UserInterface.png">
 
 It may seem that learning a new UI framework is more effort than what it is worth, perhaps you're tempted to just start from scratch rather than messing with a packaged framework. I however, think that although learning a new framework can be a bit of a strain, it is well worth your time.
 
