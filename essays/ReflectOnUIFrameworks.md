@@ -16,7 +16,7 @@ Learning a new UI framework is no simple task. You will have to learn the Framew
 
 <img class="ui medium left floated rounded image" src="../images/UserInterface.png">
 
-It may seem that learning a new UI framework is more effort than what it is worth, perhaps you're tempted to just start from scratch rather than messing with a packaged framework. I however, think that although learning a new framework can be a bit of a strain, it is well worth your time.
+It may seem that learning a new UI framework is more effort than what it is worth, perhaps you're tempted to just start from scratch rather than messing with a packaged framework. I, however, think otherwise. I believe that although learning a new framework can be a bit of a strain, it is well worth your time.
 
 ### Your Return on Investment ###
 Working with a UI framework rather that starting your projects from scratch will, in the long run, save you vast amounts of time and effort. Using a new UI framework will at first seem counterproductive, constantly referring to the documentation and making a lot of mistakes. But, as you get more comfortable, the framework will make your work time much more efficient. You will begin to recognize familiar task when building UI's and know exactly what tools to use that your framework provides. For example nstead of having to rebuild a nav bar from scratch for a new UI, you can start from a point that is further along in the design process with your framework, add your customizations and finish the task quickly.
