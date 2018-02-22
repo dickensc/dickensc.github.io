@@ -11,4 +11,4 @@ labels:
   - CSS
 ---
 
-### UI Frameworks are not simple ###
+### UI Frameworks Are Not Simple ###
