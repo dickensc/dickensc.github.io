@@ -28,9 +28,9 @@ Personally, I have recently started learning Semantic UI. I am still a novice wi
 ### Many Frameworks are Easily Customizable ###
 Maybe it seems that using a framework will make you website or application look just like everyone else's and it won't stand out. That is a very fair point and its true, if you use the framework out of the box and don't add your personal style.
 
-Framworks are, most of the time, easily customizable. If you are using Semantic UI for example, you can manually customize classes by editting the framework's files to add your personal touch. Other frameworks even offer "GUI customizers" if you don't want to manually edit into the framework's source. 
+Frameworks are, most of the time, easily customizable. If you are using Semantic UI for example, you can manually customize classes by editting the framework's files to add your personal touch. Other frameworks even offer "GUI customizers" if you don't want to manually edit the framework's source. 
 
 Even though you may want to customize some of the framework's components, you are still saving time since you are, again, starting from a point further along in the design process.
 
 ### Benefits of UI Frameworks ###
-Although learning a UI frameworks may seem difficult, if you are a serious software engineering and plan on developing new and interesting projects, then you should learn and become efficient with a UI framework. There are many frameworks out there ranging in style and complexity. You should find one that fits your needs and tastes and start coding! 
+Although learning a UI frameworks may seem difficult, if you are a serious software engineer and plan on developing new and interesting projects, then you should learn and become efficient with a UI framework. There are many frameworks out there ranging in style and complexity. You should find one that fits your needs and tastes and start coding! 
