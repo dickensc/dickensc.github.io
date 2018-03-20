@@ -17,6 +17,8 @@ UHM student buy and find a lot of resources every semester and would love a way 
 ## Solution:
 CourseOverflow, a site for students to share their resuources and suggestions about courses. Offer to sell textbooks you no longer need, useful notes, tutoring services, and more!
 
+### Site Outline
+
 ## Landing Page:
 
 ## User Home Page:
