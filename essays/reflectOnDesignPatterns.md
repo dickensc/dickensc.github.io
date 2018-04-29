@@ -29,7 +29,6 @@ Roger understands the problem and decides to take the brute force approach. He s
 
 Lucie also understands the problem but recognizes that the necessary DB operations needed to create instances can be completed 1 time only for every variation on that information retrieved from the DB. She wisely decides to implement the Protype design pattern. She creates 1 abstract class, from which concrete classes will be created for each variation on the DB information retrieved. Then she creates a cache class which holds instances of the concrete classes, these are the prototypes in her protoype design pattern. The cache class has a get method which will return clones of the prototypes that are created without running the costly DB operations. Her system, although slightly more complicated than Bobs, cuts down on DB operations which increases scalability and performance. Lucie's customers are very happy. 
 
-## Structural Design Patterns: ##
+## Conclusion ##
 
-
-
+Lucie was able to identify the problem and its complexities and remembered that it would fit well into a design pattern she had seen before. This allowed her to implement an  efficient solution in a reasonable amount of time rather than working through the problem in a brute force way like our friend Roger and realizing unsatisfactory results. 
