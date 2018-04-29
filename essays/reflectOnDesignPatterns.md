@@ -21,7 +21,7 @@ Creational Design patterns are intended to effectively instantiate new objects a
 
 ### Example: Protype ###
 
-Roger and Lucie are both tasked with implementing a system in which instances of an object may be quickly created to hold some information some of which is stored in a DB. The information needed to build the objects that is stored in the DB is costly to retrieve but only takes on a few different values.
+Roger and Lucie are both tasked with implementing a system in which instances of an object may be quickly created to hold information, some of which is stored in a DB. The information needed to build the objects that is stored in the DB is costly to retrieve but only takes on a few different values.
 
 Roger understands the problem and decides to take the brute force approach. He simply creates an ad hoc class with a constructor which performs the necessary database operations. Every time an instance of the object is created the database operations are performed. His method works but many instances need to be created, and since accessing the DB is costly his system does not scale and has poor performance.
 
