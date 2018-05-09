@@ -73,6 +73,16 @@
         "Unix",
         "Git/GitHub"
       ]
+    },
+    {
+      "name": "Other Techinical Skills",
+      "level": "",
+      "keywords": [
+        "Data Analysis and Visualization",
+        "Machine Learning",
+        "Digital Systems and Computer Architecture",
+        "Circuit Design and Analysis"
+      ]
     }
   ],
   "education": [
