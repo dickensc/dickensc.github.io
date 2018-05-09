@@ -22,6 +22,6 @@ The instruction set supports types Load and Store (data memory access), Computat
 
 Currently only a single instruction is executed at a time and the next instruction is delayed until the previous instruction is finished processing.
 
-To continue I would add support for branch prediction so there is not a need to stall the processor during a conditional or a branch, instead different instructions can be in the pipeline simultaneously and if a control hazard occurs the processor will catch it and pipeline will be flushed . I would also like to implement a super-scalar architecture, one which supports parallel instruction execution, so multiple instructions could finish processing at the same time.
+To continue I would add support for branch prediction so there is not a need to stall the processor during a conditional or a branch, instead different instructions can be in the pipeline simultaneously and if a control hazard occurs the processor will catch it and the pipeline will be flushed. I would also like to implement a super-scalar architecture, one which supports parallel instruction execution, so multiple instructions could finish processing at the same time.
 
 Source: <a href="https://github.com/dickensc/pipelinedProcessor">github.com/dickensc/pipelinedProcessor</a>
