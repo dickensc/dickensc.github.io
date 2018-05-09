@@ -60,6 +60,7 @@
         "Javascript",
         "Python",
         "Matlab",
+        "R",
         "Assembly",
         "Verilog"
       ]
@@ -109,6 +110,17 @@
       "summary": "I Mentored Hawaii’s High School Students during a 2017 Summer Internship program with UH Manoa.",
       "highlights": [
         "Taught students the essence of Data Analysis and guided them through a project over the 6 week course. The students created a Python class that stored a weighted directed graph with methods to determine specific graph features such as conductance, shortest path between 2 points, etc."
+      ]
+    },
+    {
+      "organization": "2018 IEEE Infocom Conference",
+      "website": "http://infocom2018.ieee-infocom.org/",
+      "position": "Student Volunteer",
+      "startDate": "2018-04-15",
+      "endDate": "2017-04-19",
+      "summary": "Worked as a student volunteer for the 2018 IEEE Conference held in Honolulu Hi.",
+      "highlights": [
+        "During off duty hours student volunteers had full registration to the event, I was able to attend interesting sessions held by world class researchers."
       ]
     }
   ],
