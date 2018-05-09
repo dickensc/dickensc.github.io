@@ -99,12 +99,23 @@
   ],
   "work": [
     {
+      "company": "Hawaii Data Science Institute",
+      "position": "Fellow",
+      "website": "https://www.linkedin.com/company/hawaii-data-science/",
+      "startDate": "2018-05-01",
+      "endDate": "Present",
+      "summary": "Funded for one year to participate in developing data science products and applications across a wide range of disciplines.",
+      "highlights": [
+        "I get to work closely with domain scientists and data science methodology experts in a cross-disciplinary setting to tackle issues relevant to HI-DSI's theme: Using Data to Positively Impact the Lives of People in Hawaii and Beyond."
+      ]
+    },
+    {
       "company": "Online Learning Academy",
       "position": "Math and Science Tutor",
       "website": "http://manoa.hawaii.edu/ola/",
       "startDate": "2017-11-01",
       "endDate": "Present",
-      "summary": "I Conduct tutoring sessions via the web for Physics and Math related courses.",
+      "summary": "Conduct tutoring sessions via the web for Physics and Math related courses up to the Sophmore college level.",
       "highlights": [
         "I truly enjoy sharing knowledge with others, education is a passion of mine. This work really contributed to my communication skills and made me a better student."
       ]
