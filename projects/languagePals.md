@@ -21,6 +21,6 @@ Language Pals is a web application that was develop by myself and a team from th
 
 This project allowed us to practice Design using the Meteor Framework and some practical project planning techniques.
 
-Please visit the project's home page which describes the app in deatil and documents the design process, it is available [here](https://languagepals.github.io/).
+Please visit the project's home page which describes the app in detail and documents the design process, it is available [here](https://languagepals.github.io/).
 
 The source code is available on [github](https://github.com/languagepals/languagepals).
