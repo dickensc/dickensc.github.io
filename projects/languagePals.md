@@ -21,7 +21,7 @@ Language Pals is a web application that was develop by myself and a team from th
 
 Most importantly, this project allowed us to practice design using the Meteor Framework and taught us how to use some practical project planning techniques. Also, we became competent with elementary Javascript, used configuration management tools and techniques effectively, efficiently created software that conforms to standards, and learned how to design and implement web pages using HTML and CSS.
 
-<img class="ui small left floated rounded image" src="../images/languagePalsSearch.png">
+<img class="ui medium left floated rounded image" src="../images/languagePalsSearch.png">
 
 Specifically what I contributed to the project was designing and implementing the data model, creating components such as the profile and meeting that were used to construct pages, build a simple search feature in the List Pals page, and more.
 
