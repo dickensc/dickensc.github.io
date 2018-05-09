@@ -15,7 +15,7 @@ labels:
 summary: LanguagePals is a web application connecting students with others who want to practice speaking a new language. 
 ---
 
-<img class="ui small right floated rounded image" src="../images/languagePals.png">
+<img class="ui medium right floated rounded image" src="../images/languagePals.png">
 
 Language Pals is a web application that was develop by myself and a team from the Computer Science department at UH Manoa.
 
