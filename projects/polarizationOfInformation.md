@@ -15,7 +15,7 @@ summary: A work in progress) Can we quantify the polarization of opinions and in
 <img class="ui small right floated rounded image" src="../images/complexnetworks.jpg">
 
 
-Understanding and modeling modern day information aggregation is the primary goal of this study. Our intention is to provide a quantitative heuristic answer to the question:  Across the internet, how polarized are opinions or information on a topic?
+Understanding and modeling modern day information aggregation is the primary goal of this study. Our intention is to provide a quantitative answer to the question:  Across the internet, how polarized are opinions or information on a topic?
 
 Obtaining information on the web can be modeled with a random walk defined by a Markov process, call it p.Different users with opinions and preferences can be identified by the states of the Markov process they are in; the user’s browsing history can be used to model the starting distribution on p.  Then the polarization of opinion or information covering a topic can be characterized by the mixing rate of p among the different user profiles; the more polarized opinions are the slower mixing p is.
 
