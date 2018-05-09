@@ -29,12 +29,17 @@
   },
   "interests": [
     {
+      "name": "Data Science",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "Data Science",
+      "name": "Mathematics",
       "keywords": [
       ]
     },
