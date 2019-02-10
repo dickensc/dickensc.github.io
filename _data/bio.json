@@ -105,7 +105,7 @@
   "projects": [
     {
       "title": "Open Power Quality",
-      "website": "http://datascience.hawaii.edu/",
+      "website": "https://openpowerquality.org/",
       "startDate": "2018-07-01",
       "endDate": "Present",
       "summary": "The goal of Open Power Quality (OPQ) is to provide open source hardware and software for low-cost distributed power quality data collection, analysis, and visualization.",
