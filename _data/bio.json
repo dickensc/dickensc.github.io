@@ -111,9 +111,43 @@
       "summary": "The goal of Open Power Quality (OPQ) is to provide open source hardware and software for low-cost distributed power quality data collection, analysis, and visualization.",
       "highlights": [
         "I am working on the OPQ Mauka component. Mauka is a distributed plugin-based middleware for OPQ that provides higher level analytical capabilities such as classification of PQ events, statistics, and more.",
-        "So far I have devloped plugins to classify different types of frequency disturbances and transients using digital signal processing and machine learning techniuques."
+        "So far I have devloped plugins to classify different types of frequency disturbances and transients using digital signal processing and machine learning techniques."
       ]
-    }
+    },
+    {
+      "title": "The Polarization of Information",
+      "website": "https://github.com/ThePolarizationOfInformationOnTheWeb/ThePolarizationOfInformation",
+      "startDate": "2017-08-01",
+      "endDate": "Present",
+      "summary": "The primary focus of this project is to develop a system that can provide objective measurements of the polarity of information on the web at a topic specific level",
+      "highlights": [
+        "I have built web scrapers to find relevant news articles and queried Twitter’s APIs to collect and store data in a MySQL database.",
+        "I have implemented novel machine algorithms to find clusters in the network of collected data.",
+        "This project has been awarded funding by the NSF Center for Science of Information.",
+        "I have successfully onboarded a team of 4 student researchers from 3 Universities UH Manoa, Notre Dame, and Howard, to work with me on this project.",
+      ]
+    },
+  ],
+  "Workshops": [
+    {
+      "title": "Intelligent Systems for Geosciences, University of Hawaii Hilo",
+      "startDate": "2018-08-01",
+      "summary": "Worked with domain scientists to develop sensors and discuss challenges experienced by scientists to propose new directions for research and collaboration.",
+      "highlights": [
+        "Built a dual spectrum imaging sensor using a Raspberry Pi device that periodically took infrared and visual light photos of the active volcanic fissure on Hawaii Island and stored the data on an Amazon web server."
+      ]
+    },
+    {
+      "title": "Data Science and Interdisciplinary Research Teams, Purdue University",
+      "website": "https://github.com/ThePolarizationOfInformationOnTheWeb/ThePolarizationOfInformation",
+      "startDate": "2018-06-01",
+      "summary": "Learned fundamental principles of data science and worked on a project with students and researchers from across the globe.",
+      "highlights": [
+        "Learned how to use R to interact with SQL databases, and how to scrape and parse XML code.",
+        "The Polarization of Information was select to be a team project for the week, so I was the team leader for a group of 5 students from Universities across the country and at levels ranging from Undergraduate to PhD candidates.",
+        "I was responsible for organizing an agenda for the week and assigning tasks to make significant progress on the project to present at the end of the workshop.",
+      ]
+    },
   ],
   "work": [
     {
