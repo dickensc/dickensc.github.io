@@ -104,13 +104,14 @@
   ],
   "projects": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2019)",
-      "studyType": "B.S.",
-      "startDate": "2014-09-01",
-      "endDate": "2019-05-01",
-      "gpa": "3.93",
-      "courses": [
+      "title": "Open Power Quality"
+      "website": "http://datascience.hawaii.edu/",
+      "startDate": "2018-07-01",
+      "endDate": "Present",
+      "summary": "The goal of Open Power Quality (OPQ) is to provide open source hardware and software for low-cost distributed power quality data collection, analysis, and visualization.",
+      "highlights": [
+        "I am working on the OPQ Mauka component. Mauka is a distributed plugin-based middleware for OPQ that provides higher level analytical capabilities such as classification of PQ events, statistics, and more.",
+        "So far I have devloped plugins to classify different types of frequency disturbances and transients using digital signal processing and machine learning techniuques."
       ]
     }
   ],
