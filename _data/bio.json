@@ -3,10 +3,10 @@
     "name": "Charles Dickens",
     "label": "Student",
     "picture": "https://dickensc.github.io/images/charles.jpg",
-    "email": "dickensc@hawaii.edu",
+    "email": "charlieadickens@gmail.com",
     "phone": "808-286-0540",
     "website": "https://dickensc.github.io",
-    "summary": "I am a student in the Computer Engineering program with the Departments of Electrical Engineering and Information and Computer Sciences at the University of Hawaii Manoa. My immediate goals are to complete my Undergraduate studies in Spring, 2019, and then continue to earn a Graduate degree in Computer Engineering or a closely related field. Professionally, I plan to pursue a career as a Software Engineer.",
+    "summary": "I am a student in the Computer Engineering program with the Departments of Electrical Engineering and Information and Computer Sciences at the University of Hawaii Manoa. My immediate goals are to complete my undergraduate studies in Spring 2019, and then continue to earn a Graduate degree in Computer Science. Professionally, I plan to pursue a career as a Data Scientist.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -59,11 +59,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Python",
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Python",
         "Matlab",
         "R",
         "Assembly",
@@ -75,7 +75,7 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Unix",
+        "Linux/Unix",
         "Git/GitHub"
       ]
     },
@@ -97,7 +97,19 @@
       "studyType": "B.S.",
       "startDate": "2014-09-01",
       "endDate": "2019-05-01",
-      "gpa": "3.98",
+      "gpa": "3.93",
+      "courses": [
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2019)",
+      "studyType": "B.S.",
+      "startDate": "2014-09-01",
+      "endDate": "2019-05-01",
+      "gpa": "3.93",
       "courses": [
       ]
     }
@@ -111,7 +123,8 @@
       "endDate": "Present",
       "summary": "Funded for one year to participate in developing data science products and applications across a wide range of disciplines.",
       "highlights": [
-        "I get to work closely with domain scientists and data science methodology experts in a cross-disciplinary setting to tackle issues relevant to HI-DSI's theme: Using Data to Positively Impact the Lives of People in Hawaii and Beyond."
+        "I get to work closely with domain scientists and data science methodology experts in a cross-disciplinary setting to tackle issues relevant to HI-DSI's theme: Using Data to Positively Impact the Lives of People in Hawaii and Beyond.",
+        "Personally, I have been designing a course on data wrangling with the pandas Python package. This course will be offered to stdudents at UHM in the near future."
       ]
     },
     {
@@ -119,8 +132,8 @@
       "position": "Math and Science Tutor",
       "website": "http://manoa.hawaii.edu/ola/",
       "startDate": "2017-11-01",
-      "endDate": "Present",
-      "summary": "Conduct tutoring sessions via the web for Physics and Math related courses up to the Sophmore college level.",
+      "endDate": "2018-08-01",
+      "summary": "Conducted tutoring sessions via the web for Physics and Math related courses up to the Sophmore college level.",
       "highlights": [
         "I truly enjoy sharing knowledge with others, education is a passion of mine. This work really contributed to my communication skills and made me a better student."
       ]
