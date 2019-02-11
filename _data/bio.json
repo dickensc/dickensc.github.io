@@ -142,7 +142,7 @@
       ]
     },
   ],
-  "Workshops": [
+  "workshops": [
     {
       "title": "Intelligent Systems for Geosciences, University of Hawaii Hilo",
       "startDate": "2018-08-01",
