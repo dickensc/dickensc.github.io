@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/complexnetworks.jpg
+image: images/voting_plot.png
 title: Polarization of Information on the Web
 permalink: projects/PolarizationOfInformation
 # All dates must be YYYY-MM-DD format!
@@ -9,21 +9,20 @@ date: 2017-08-01
 labels:
   - Python
   - MySql
-summary: A work in progress) Can we quantify the polarization of opinions and information surrounding a topic on the web?
+  - Data science
+  - Machine learning
+summary: Can we quantify the polarization of opinions and information being shared over the web?
 ---
 
-<img class="ui small right floated rounded image" src="../images/complexnetworks.jpg">
+<img class="ui small right floated rounded image" src="../images/voting_plot.png">
 
 
-Understanding and modeling modern day information aggregation is the primary goal of this study. Our intention is to provide a quantitative answer to the question:  Across the internet, how polarized are opinions or information on a topic?
+Many sources claim that the political climate is becoming increasingly polarized, but few attempt to quantify this feeling. Furthermore, the strict dichotomy of left vs. right is a simple and typically accepted narrative, but perhaps a more fine grained model which considers smaller schools of thought on a topic to topic basis may better capture what is truly happening on the web. With an objective understanding of the polarization of information on the web, researchers could pinpoint causes, and potentially come up with solutions to reverse this concerning trend and foster more fruitful conversation.
 
-Obtaining information on the web can be modeled with a random walk defined by a Markov process, call it p.Different users with opinions and preferences can be identified by the states of the Markov process they are in; the user’s browsing history can be used to model the starting distribution on p.  Then the polarization of opinion or information covering a topic can be characterized by the mixing rate of p among the different user profiles; the more polarized opinions are the slower mixing p is.
+The primary focus of this project is to develop a system that can provide objective measurements of the polarity of the network of information and opinions on Twitter and Google News. We have implemented a semi-supervised approach to modeling the network of tweets with an un-directed weighted graph using a feedback loop which applies a state of the art clustering algorithm that was developed in house at UH Manoa's Big Data lab. Communities of the resulting network are identified and the polarization of the network is then quantified using graph conductance.
 
-So far I developed a simple web scraper with python script to collect information and opinions relevant to a topic.  This scraper searches Google news for articles and samples a number of the most popular tweets on Twitter.  The goal of the scraper is to capture a glimpse of the larger state space of the Markov process, which is the entire web of news sources and opinions accessible via the internet.
+<img class="ui small left floated rounded image" src="../images/project_block_diagram.png">
 
-<img class="ui small left floated rounded image" src="../images/sourcecode.png">
+Our system has analyzed multiple topics of discussion and has identified groups that align with our intuitions. The network structure including polarity calculations can be successfully measured and compared across topics. Future work on this project will be to incorporate more features into the methods for building and weighting the network of information.
 
-To continue, user browsing histories from different points of view can be collected.  The relevant articles or tweets encountered by the user can be determined by the scraper I built.  The articles and tweets can be profiled as different states then the relevant user browsing history can be represented by a Markov chain from which we can calculate the starting distribution. We can then simulate the user proceeding to browse and encounter articles on the web.  The Markov Chain will grow and the distribution will approach the stationary distribution at a measurable rate.
-
-
-Source code is available and being updated on [github](https://github.com/dickensc/PolarizationOfInformation).
+Source code is available and being updated on [github](https://github.com/ThePolarizationOfInformationOnTheWeb/ThePolarizationOfInformation).
