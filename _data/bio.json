@@ -65,6 +65,8 @@
         "Java",
         "Javascript",
         "Matlab",
+        "React",
+        "Semantic UI",
         "R",
         "Assembly",
         "Verilog"
@@ -99,6 +101,18 @@
       "endDate": "2019-05-01",
       "gpa": "3.93",
       "courses": [
+        "Object Oriented Software Engineering (A)",
+        "Software Engineering II (Currently Enrolled)",
+        "Statistical Inference (Currently Enrolled)",
+        "Advanced Linear Algebra (A)",
+        "EE Directed Reading: Machine Learning (Currently Enrolled)",
+        "Machine Learning (A)",
+        "Special Topics in EE: Machine Learning (A+)",
+        "Linear Convex Optimization (A)",
+        "Data Structures and Algorithms (A)",
+        "Digital Systems and Computer Design (A)",
+        "Intro. to Computer and Network Security (A+)",
+        "Signal and System Analysis (A+)"
       ]
     }
   ],
@@ -196,6 +210,13 @@
       "highlights": [
         "Taught students the essence of Data Analysis and guided them through a project over the 6 week course. The students created a Python class that stored a weighted directed graph with methods to determine specific graph features such as conductance, shortest path between 2 points, etc."
       ]
+    },
+    {
+      "organization": "Pa'ani Wai Hawai'i",
+      "position": "Water Safety Instructor",
+      "startDate": "2014-03-01",
+      "endDate": "2017-10-01",
+      "summary": "Provided private and group lessons for watersports including SUP, Kite Surfing, Wind Surfing, and Surfing."
     }
   ],
   "awards": [
