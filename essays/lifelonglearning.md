@@ -1,14 +1,19 @@
-S3
+---
+layout: essay
+type: essay
+title: There Are Such Things As Stupid Questions?
+# All dates must be YYYY-MM-DD format!
+date: 2018-02-13
+labels:
+  - Open Source
+  - Communication
+---
 
-**EE 367: Lifelong Learning**
-
-**Author:** Charles Dickens
-
-**Date:** February 13, 2018
+**Lifelong Learning**
 
 **Abstract**
 
-The goal of this paper is to explore lifelong learning, and specifically
+The goal of this essay is to explore lifelong learning, and specifically
 its value in the professional development of a computer engineer. We see
 many different types of lifelong learning opportunities and specific
 examples for engineers. By the end we reach the conclusion that lifelong
@@ -253,60 +258,60 @@ and relevant in the workplace.
     everywhere in every profession should strive to be lifelong
     learners.
 
-12
+**References**
 
-Ieee.org. (2018). IEEE Conferences. \[online\] Available at:
+1. Ieee.org. (2018). IEEE Conferences. \[online\] Available at:
 <https://www.ieee.org/conferences_events/index.html> \[Accessed 13 Feb.
 2018\].
 
-Anon, (2018). \[online\] Available at: <https://www.ee.hawaii.edu>
+2. Anon, (2018). \[online\] Available at: <https://www.ee.hawaii.edu>
 \[Accessed 13 Feb. 2018\].
 
-Robert Gallager. 6.262 Discrete Stochastic Processes. Spring 2011.
+3. Robert Gallager. 6.262 Discrete Stochastic Processes. Spring 2011.
 Massachusetts Institute of Technology: MIT OpenCourseWare,
 <https://ocw.mit.edu.> License: Creative Commons BY-NC-SA.
 
-Shalev-Shwartz, S. and Ben-David, S. (2014). Understanding Machine
+4. Shalev-Shwartz, S. and Ben-David, S. (2014). Understanding Machine
 Learning From Theory to Algorithms. 1st ed. \[ebook\] New York:
 Cambridge University Press. Available at:
 <https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf>\[Accessed
 13 Feb. 2018\].
 
-Nces.ed.gov. (2017). Fast Facts. \[online\] Available at:
+5. Nces.ed.gov. (2017). Fast Facts. \[online\] Available at:
 <https://nces.ed.gov/fastfacts/display.asp?id=561> \[Accessed 13 Feb.
 2018\].
 
-Bls.gov. (2016). Employee Tenure Summary. \[online\] Available at:
+6. Bls.gov. (2016). Employee Tenure Summary. \[online\] Available at:
 <https://www.bls.gov/news.release/tenure.nr0.htm> \[Accessed 13 Feb.
 2018\].
 
-Economist.com. (2017). Lifelong Learning is Becoming an Economic
+7. Economist.com. (2017). Lifelong Learning is Becoming an Economic
 Imperative. \[online\] Available at:
 <https://www.economist.com/news/special-report/21714169-technological-change-demands-stronger-and-more-continuous-connections-between-education?platform=hootsuite>
 \[Accessed 13 Feb. 2018\].
 
-Bls.gov. (2017). Computer and Information Research Scientists :
+8. Bls.gov. (2017). Computer and Information Research Scientists :
 Occupational Outlook Handbook: : U.S. Bureau of Labor Statistics.
 \[online\] Available at:
 <https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm>
 \[Accessed 13 Feb. 2018\].
 
-Bls.gov. (2017). Computer Hardware Engineers : Occupational Outlook
+9. Bls.gov. (2017). Computer Hardware Engineers : Occupational Outlook
 Handbook: : U.S. Bureau of Labor Statistics. \[online\] Available at:
 <https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm>\[Accessed
 13 Feb. 2018\].
 
-Amadeo, K. (2018). Americans' Incomes Have Been Falling Since the 1990s.
+10. Amadeo, K. (2018). Americans' Incomes Have Been Falling Since the 1990s.
 \[online\] The Balance. Available at:
 <https://www.thebalance.com/what-is-average-income-in-usa-family-household-history-3306189>
 \[Accessed 13 Feb. 2018\].
 
-Park, A. (2015). Puzzles and Brain Games May Not Slow Alzheimer's After
+11. Park, A. (2015). Puzzles and Brain Games May Not Slow Alzheimer's After
 All. \[online\] Time. Available at:
 <http://time.com/3916777/alzheimers-symptoms-delay/> \[Accessed 13 Feb.
 2018\].
 
-Silverman, L. (2014). Learning A New Skill Works Best To Keep Your Brain
+12. Silverman, L. (2014). Learning A New Skill Works Best To Keep Your Brain
 Sharp. \[online\] NPR.org. Available at:
 <https://www.npr.org/sections/health-shots/2014/05/05/309006780/learning-a-new-skill-works-best-to-keep-your-brain-sharp>
 \[Accessed 13 Feb. 2018\].
