@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: There Are Such Things As Stupid Questions?
+title: Lifelong Learning
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-13
 labels:
