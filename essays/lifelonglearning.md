@@ -199,10 +199,8 @@ and relevant in the workplace.
     [@Employment; @Rates]. The results of this study can be seen in
     figure [1](#fig:EmploymentRates){reference-type="ref"
     reference="fig:EmploymentRates"}.
-
-    ![Employment rates of 20- to 24-year-olds, by sex and educational
-    attainment in
-    2016[]{label="fig:EmploymentRates"}](./unemploymentRates.png){#fig:EmploymentRates}
+    
+    <img class="ui large right floated rounded image" label="fig:EmploymentRates" src="../images/unemploymentRates.png">
 
     Now this is a study only looking at 20 - 24 year olds, but this
     illustrates an almost undeniable trend, higher education means
